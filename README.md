@@ -10,10 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/BootStrap-F7DF1E?style=for-the-badge&logo=BootStrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-0078D4?style=for-the-badge&logo=Flutter&logoColor=white"/>
-</p>
-
-<p align='center'>
-  ✨링크🎉
+  <img src="https://img.shields.io/badge/GitLab-E36F37?style=for-the-badge&logo=Gitlab&logoColor=white"/>
 </p>
 
 <p align='center'>

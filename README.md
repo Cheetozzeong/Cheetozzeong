@@ -35,7 +35,7 @@
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Vincere%20certe!&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Vincere%20certe!&fontSize=90)
 
 
 <!--

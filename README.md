@@ -3,6 +3,7 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-117ACA?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/DART-117ACA?style=for-the-badge&logo=Dart&logoColor=white">
 </p>
 <p align='center' style="font-size: 40px;"> 📟 가능 📟 </p>
 <p align='center'>
@@ -34,23 +35,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Vincere%20Certe!&fontSize=90)
-
-
-<!--
-**hong-bin95/hong-bin95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![hong-bin95's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hong-bin95&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hong-bin95)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

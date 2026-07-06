@@ -16,8 +16,6 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cheetozzeong)](https://github.com/ryo-ma/github-profile-trophy)
-  
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Vincere%20Certe!&fontSize=90)

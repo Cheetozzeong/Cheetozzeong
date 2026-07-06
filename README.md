@@ -14,19 +14,6 @@
   <img src="https://img.shields.io/badge/GitLab-E36F37?style=for-the-badge&logo=Gitlab&logoColor=white"/>
 </p>
 
-<p align='center'>
-  🍿커밋🍿
-</p>
-
-<div align="center">
-
-![Cheetozzeon's github stats](https://github-readme-stats.vercel.app/api?username=Cheetozzeong&show_icons=true)
-  
-</div>
-<p align='center'>
-  🍷트로피🍷
-</p>
-
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Cheetozzeong)](https://github.com/ryo-ma/github-profile-trophy)

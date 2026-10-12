@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg?v=ai-agents" width="100%" alt="CHIHEON — Build products. Lead delivery." />
+  <img src="https://raw.githubusercontent.com/Cheetozzeong/Cheetozzeong/177de7958763190e124d42a8b58cee0bb6e7869a/assets/profile-banner.svg" width="100%" alt="CHIHEON — Build products. Lead delivery." />
 </p>
 
 <h2 align="center">안녕하세요, 이치헌입니다.</h2>

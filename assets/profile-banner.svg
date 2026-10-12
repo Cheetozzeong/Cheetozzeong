@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">CHIHEON — Build products. Lead delivery.</title><desc id="desc">Full-stack engineer with backend, frontend, infrastructure and PM/PL responsibilities.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b2d"/><stop offset="1" stop-color="#182c3b"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#b9dbd6" stroke-opacity=".05"/></pattern></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1130" cy="-20" r="235" fill="none" stroke="#75e0c3" stroke-opacity=".12"/><circle cx="1130" cy="-20" r="175" fill="none" stroke="#75e0c3" stroke-opacity=".08"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="56" y="44" width="8" height="8" rx="2" fill="#75e0c3"/><text x="77" y="53" font-size="12" font-weight="700" letter-spacing="3" fill="#75e0c3">ENGINEERING × DELIVERY</text>
+<text x="53" y="132" font-size="70" font-weight="700" letter-spacing="-3" fill="#f4f7fc">CHIHEON<tspan fill="#ffae7d">.</tspan></text>
+<text x="56" y="190" font-size="29" font-weight="700" letter-spacing="-.7" fill="#f4f7fc">Build products. Lead delivery.</text><text x="57" y="224" font-size="16" fill="#aabacb">From the first idea to the running service.</text>
+<rect x="56" y="271" width="168" height="32" rx="16" fill="#75e0c3" fill-opacity=".1" stroke="#75e0c3" stroke-opacity=".25"/><text x="140" y="292" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.2" fill="#75e0c3">FULL-STACK ENGINEER</text>
+<rect x="237" y="271" width="90" height="32" rx="16" fill="#ffae7d" fill-opacity=".1" stroke="#ffae7d" stroke-opacity=".25"/><text x="282" y="292" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1.2" fill="#ffae7d">PM / PL</text>
+<path d="M 824 98 L 1048 98 L 1048 263 L 824 263 Z" stroke="#75e0c3" stroke-opacity=".25" fill="none"/>
+<rect x="719" y="74" width="204" height="76" rx="12" fill="#1b3042" stroke="#355060"/><text x="737" y="99" font-size="10" letter-spacing="2" fill="#ffae7d">01 / DEFINE</text><text x="737" y="130" font-size="21" font-weight="700" fill="#f4f7fc">Product &amp; Plan</text>
+<rect x="948" y="154" width="204" height="76" rx="12" fill="#1b3042" stroke="#355060"/><text x="966" y="179" font-size="10" letter-spacing="2" fill="#75e0c3">02 / BUILD</text><text x="966" y="210" font-size="21" font-weight="700" fill="#f4f7fc">Front &amp; Back</text>
+<rect x="719" y="239" width="204" height="76" rx="12" fill="#1b3042" stroke="#355060"/><text x="737" y="264" font-size="10" letter-spacing="2" fill="#75e0c3">03 / OPERATE</text><text x="737" y="295" font-size="21" font-weight="700" fill="#f4f7fc">Infra &amp; Delivery</text><circle cx="1048" cy="98" r="5" fill="#75e0c3"/><circle cx="1048" cy="263" r="5" fill="#ffae7d"/>
+</g></svg>

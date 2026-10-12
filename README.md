@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="CHIHEON — Build products. Lead delivery." />
+  <img src="./assets/profile-banner.svg?v=ai-agents" width="100%" alt="CHIHEON — Build products. Lead delivery." />
 </p>
 
 <h2 align="center">안녕하세요, 이치헌입니다.</h2>
 <p align="center">
   <strong>기획에서 개발, 배포와 운영까지 제품의 전체 흐름을 연결합니다.</strong><br />
-  백엔드 · 프론트엔드 · 인프라 개발과 PM · PL 업무를 함께 맡고 있습니다.
+  백엔드 · 프론트엔드 · 인프라 개발과 PM · PL 업무를 함께 맡고 있습니다.<br />
+  <strong>AI 에이전트를 적극 활용하며, 기획부터 구현·리뷰·검증까지 함께합니다.</strong>
 </p>
 
 <p align="center">
   <a href="#what-i-do">What I do</a> &nbsp;·&nbsp;
+  <a href="#ai-assisted-workflow">AI workflow</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
   <a href="#selected-projects">Projects</a>
 </p>
@@ -44,6 +46,20 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+## AI-assisted workflow
+
+**AI 에이전트를 일상적인 개발 파트너로 적극 활용합니다.**
+
+기획과 코드 탐색부터 구현·리팩터링·리뷰·문서화·검증까지, 작업의 목적에 맞춰 AI 에이전트를 활용합니다. 결과를 직접 검토하고 기술 의사결정과 최종 품질을 책임지는 방식으로 일합니다.
+
+<p>
+  <code>Planning &amp; Research</code> &nbsp;→&nbsp;
+  <code>Implementation</code> &nbsp;→&nbsp;
+  <code>Review &amp; Verification</code>
+</p>
 
 <br />
 

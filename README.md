@@ -13,7 +13,8 @@
   <a href="#what-i-do">What I do</a> &nbsp;·&nbsp;
   <a href="#ai-assisted-workflow">AI workflow</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech stack</a> &nbsp;·&nbsp;
-  <a href="#selected-projects">Projects</a>
+  <a href="#team--organization-projects">Team projects</a> &nbsp;·&nbsp;
+  <a href="#personal-projects">Personal projects</a>
 </p>
 
 <br />
@@ -81,13 +82,127 @@
 | **Backend** | Spring Boot · Spring Security · JPA · QueryDSL · Django · Django REST Framework |
 | **Data** | PostgreSQL · MariaDB / MySQL · Supabase · Neon |
 | **Infra & Delivery** | AWS · Docker · GitHub Actions · Vercel |
-| **Mobile** | Android · Kotlin · Jetpack · Flutter · Firebase |
+| **Mobile** | React Native · Expo · Android · Kotlin · Jetpack · Flutter · Firebase |
 
 <sub>프로젝트의 의존성, 구성 파일과 문서에서 확인한 사용 기술을 정리했습니다.</sub>
 
 <br />
 
-## Selected projects
+## Team & organization projects
+
+개인 프로젝트와 함께, 팀·조직의 서비스 개발과 운영에도 참여하고 있습니다.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Cor.AIdit</h3>
+      <strong>웹 · 모바일 · CMS · 백엔드</strong>
+      <p>Pickles, InPharm 등 여러 서비스의 사용자 화면, 관리자 도구와 API 프로젝트에 참여했습니다.</p>
+      <code>React / Next.js</code> <code>React Native / Expo</code> <code>Java / Spring Boot</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cor.AIdit-EC</h3>
+      <strong>돗자리깜 · 서비스와 운영 도구</strong>
+      <p>사용자 서비스와 CMS, 로그인·결제·쿠폰·결과 조회를 연결하는 프론트엔드와 API를 작업했습니다.</p>
+      <code>Next.js</code> <code>TypeScript</code> <code>Spring Boot</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tendom</h3>
+      <strong>서비스 개발 · 운영 · AI 도구</strong>
+      <p>포텔리어, 랜덤티켓 등 서비스 개발과 배포 개선을 작업하고, 업무 관리·콘텐츠 생성·발행 도구를 만들었습니다.</p>
+      <code>React / Next.js</code> <code>Spring Boot / Django</code> <code>AWS / Docker</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Innocitydev</h3>
+      <strong>경영박사 Web · ERP 2.0</strong>
+      <p>업무용 웹 서비스의 고객·기업 정보와 인증 흐름을 개선하고, ERP 프론트엔드의 공통 구조와 화면을 구성했습니다.</p>
+      <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Turborepo</code>
+    </td>
+  </tr>
+</table>
+
+<sub>아래 목록은 확인 가능한 작업 레포와 기여 기록을 기준으로 정리했습니다. 비공개 저장소는 프로젝트 소개로 표시합니다.</sub>
+
+<br />
+
+<details>
+  <summary><strong>Cor.AIdit · 프로젝트 목록</strong></summary>
+
+<br />
+
+| Project | Work | Technologies |
+| :--- | :--- | :--- |
+| **Pickles** | 모바일 앱 · CMS · 백엔드 API · 기존 웹 프론트엔드 | React Native · Expo · Next.js · TypeScript · Java · Spring Boot · MySQL |
+| **InPharm** | 웹 프론트엔드 · 백엔드 프로젝트 | TypeScript · Java |
+| **Cashew** | 백엔드 API 프로젝트 | Java |
+| **INNY** | 프론트엔드 프로젝트 | TypeScript |
+| **Zakdang** | 웹 프로젝트 | TypeScript |
+| **Clothes** | 웹 기능 개선 · 퍼블리싱 · QA | Web frontend |
+| **Fortelior App** | 앱 프로젝트 | TypeScript |
+| **Voice Bridge** | Android 앱 프로젝트 | Kotlin |
+| **AIdit Company Website** | 회사 웹사이트 프로젝트 | TypeScript |
+| **ERP Sample** | ERP 프론트엔드 프로토타입 | TypeScript |
+
+</details>
+
+<br />
+
+<details>
+  <summary><strong>Cor.AIdit-EC · 프로젝트 목록</strong></summary>
+
+<br />
+
+| Project | Work | Technologies |
+| :--- | :--- | :--- |
+| **돗자리깜 / Dosjalikkam** | 사용자 웹 · CMS · 인증 · 결제 · 쿠폰 · 콘텐츠 결과 조회 API | Next.js · React · TypeScript · Java · Spring Boot · MySQL |
+
+</details>
+
+<br />
+
+<details>
+  <summary><strong>Tendom · 프로젝트 목록</strong></summary>
+
+<br />
+
+| Project | Work | Technologies |
+| :--- | :--- | :--- |
+| **포텔리어 / Fortelior** | 웹 · CMS · 백엔드 · 리포트 프로젝트, 인증·화면 개선과 배포 운영 | Next.js · TypeScript · Spring Boot · AWS · Docker |
+| **랜덤티켓 / Ranti** | 웹 · 백엔드 프로젝트와 배포 운영 개선 | Next.js · TypeScript · Spring Boot · AWS · Docker |
+| **베어유 / Bearu · 빡공단** | 사용자 웹 · CMS · B2B · API와 학습 서비스 프론트엔드 | React · Next.js · TypeScript · Python · Django |
+| **커리어월렛 / CareerWallet** | 사용자 · 기업 · 관리자 웹과 백엔드 프로젝트 | React · Next.js · Spring Boot |
+| **Solusi** | 사용자 웹 · 관리자 도구 · 백엔드 프로젝트 | Next.js · TypeScript · Spring Boot |
+| **Plan T** | 프로젝트·업무 관리 SaaS | Next.js · TypeScript · Supabase · Tiptap · Zustand |
+| **DBShareCTA** | 콘텐츠 기반 참여 · 리드 수집 · 쿠폰 운영 SaaS | Next.js · TypeScript · Supabase |
+| **Blog Agent / drblog** | AI 콘텐츠 생성 · 다중 에이전트 검수 · 게시 워크플로 | Next.js · Supabase · Anthropic SDK · Playwright |
+| **SNS Publisher** | Figma 콘텐츠 가져오기 · 승인 · 채널별 발행 도구 | Next.js · TypeScript · Supabase · Figma / Meta API |
+| **관악 작명 랜딩** | 서비스 소개 · 신청 · 결제 · 이메일 알림 | Next.js · TypeScript · Supabase · Toss Payments · Resend |
+| **MiniGame Legend** | 웹 미니게임 · 개인/조직 랭킹 프로토타입 | Python · PostgreSQL · Supabase · Vercel |
+| **ShutterBox** | AI 프로필 이미지 생성 앱 프로토타입 | Next.js · Tailwind CSS · Supabase · fal.ai |
+
+<sub>기존 버전과 v2, 프론트엔드·백엔드·리포트 레포는 같은 서비스로 묶었습니다.</sub>
+
+</details>
+
+<br />
+
+<details>
+  <summary><strong>Innocitydev · 프로젝트 목록</strong></summary>
+
+<br />
+
+| Project | Work | Technologies |
+| :--- | :--- | :--- |
+| **경영박사 Web / drWeb** | 고객 관리 · 기업 정보 · 가입·인증 흐름 · UI와 QA 개선 | React · TypeScript · Styled Components · AG Grid |
+| **ERP 2.0** | 프론트엔드 모노레포 · 인증/권한 · 업무 화면과 공통 패키지 구성 | Next.js · React · TypeScript · Tailwind CSS · TanStack Query · Zustand · Turborepo |
+
+</details>
+
+<br />
+
+## Personal projects
 
 <table>
   <tr>
@@ -105,11 +220,6 @@
     </td>
   </tr>
 </table>
-
-### Beyond public repositories
-
-웹 서비스와 관리자 도구, 백엔드 API, 배포 자동화 등 다양한 프로젝트를 작업하고 있습니다.  
-개발과 함께 PM·PL 역할을 수행하며, 요구사항을 정리하는 단계부터 운영까지 함께합니다.
 
 <details>
   <summary><strong>Earlier work · 모바일 프로젝트 보기</strong></summary>
